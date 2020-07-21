@@ -1,0 +1,7 @@
+#!/bin/bash
+
+APP_DIR=$(dirname $0)
+APP_DIR=$(cd "$APP_DIR";pwd)
+
+export JAVA_HOME="$APP_DIR/jre"
+${JAVA_HOME}/bin/java -jar ${APP_DIR}/libs/app.jar

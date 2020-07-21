@@ -1,0 +1,25 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="1" y1="1" x2="1" x1="1" id="svg_11">
+   <stop stop-opacity="0.996094" stop-color="#b2b2b2" offset="0"/>
+   <stop stop-opacity="0.996094" stop-color="#7f7f7f" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="1" y1="1" x2="1" x1="0" id="svg_13">
+   <stop stop-opacity="0.996094" stop-color="#b2b2b2" offset="0"/>
+   <stop stop-opacity="0.996094" stop-color="#666666" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <circle id="svg_3" r="256" fill="url(#svg_13)" cy="256" cx="256"/>
+  <path id="svg_4" fill="url(#svg_11)" d="m256.804016,469.333862c-117.63147,0 -213.333336,-95.702393 -213.333336,-213.333344c0,-117.631454 95.701851,-213.333309 213.333336,-213.333309c117.636261,0 213.333344,95.701855 213.333344,213.333309c0,117.630951 -95.697083,213.333344 -213.333344,213.333344z"/>
+  <rect id="svg_6" y="204.832001" x="144" width="240" opacity="0.3" height="179.167999"/>
+  <path id="svg_7" opacity="0.3" d="m144,144l0,50.832001l240,0l0,-50.832001l-240,0zm151.418121,33.33226l-122.360519,0l0,-10l122.360519,0l0,10zm40.088013,0l-10,0l0,-10l10,0l0,10zm21.001068,0l-10,0l0,-10l10,0l0,10z"/>
+  <rect id="svg_9" y="196.832001" x="136" width="240" height="179.167999" fill="#FFFFFF"/>
+  <path id="svg_10" fill="#FFFFFF" d="m136,136l0,50.832001l240,0l0,-50.832001l-240,0zm151.417969,33.33226l-122.360367,0l0,-10l122.360367,0l0,10zm40.088165,0l-10,0l0,-10l10,0l0,10zm21.001068,0l-10,0l0,-10l10,0l0,10z"/>
+ </g>
+</svg>
