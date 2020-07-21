@@ -2,7 +2,7 @@
 
 # Your fat/shadow jar should be in the same dir as build.sh 
 # Modify these vars as desired
-export APPNAME=BTTConverter
+export APPNAME=MyJar2AppImage
 export VERSION=1.0
 export ARCH=x86_64
 
